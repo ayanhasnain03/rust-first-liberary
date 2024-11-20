@@ -1,0 +1,9 @@
+[package]
+name = "ayan_learn_crate"
+version = "0.1.0"
+edition = "2021"
+description = "LEARNING AUTH SERVICE"
+license = "MIT"  # Ensuring you have a valid license
+
+[dependencies]
+rand = "0.8.5"  # Random number generator package
